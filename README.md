@@ -1,0 +1,1 @@
+Training with [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
